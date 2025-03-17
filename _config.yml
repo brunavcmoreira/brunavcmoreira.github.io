@@ -6,9 +6,6 @@ description: Gerente de Operações e Projetos com experiência em desenvolvimen
 
 show_downloads: true # Fix spelling
 
-theme: jekyll-theme-minimal 
-
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
+theme: jekyll-theme-minimal
 
 email: bruna.vasconcelos89@gmail.com #
