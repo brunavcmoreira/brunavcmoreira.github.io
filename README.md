@@ -1,6 +1,15 @@
 # Gerente de Operações & Projetos
 ### _Atual - Gerente de operações - Wiz BPO_
 
+## 📞 Contato
+
+| **Name**   | Bruna V C Moreira | 
+| **E-mail**   | <a href="mailto:bruna.vasconcelos89@gmail.com">bruna.vasconcelos89@gmail.com</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/bruna-moreira-495672153/" target="_blank">Acessar Perfil</a> | 
+
+## 📥 Download
+[Baixar versão em PDF](https://www.web2pdfconvert.com/download?url=https://brunavcmoreira.github.io/)
+
 #### Resumo: 
  Profissional com mais de 15 anos de experiência, especialmente no setor de seguros e operações, com trajetória consistente de crescimento. Atualmente como Gerente de Operações na Wiz BPO, lidero equipes para garantir eficiência operacional e resultados. Experiência consolidada em gestão de projetos, implementação de metodologias ágeis, desenvolvimento de produtos e otimização de processos. Forte atuação como Product Owner com foco em inovação tecnológica e melhoria contínua. Habilidade comprovada na estruturação de operações, análise de dados para tomada de decisões e relacionamento com clientes e parceiros estratégicos.
 
@@ -89,9 +98,3 @@
 - Esclarecimento de dúvidas sobre produtos e serviços
 - Registro de solicitações e reclamações
 - Busca de soluções para demandas de clientes
-
-## 📞 Contato
-
-| **Name**   | Bruna V C Moreira | 
-| **E-mail**   | <a href="mailto:bruna.vasconcelos89@gmail.com">bruna.vasconcelos89@gmail.com</a> | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/bruna-moreira-495672153/" target="_blank">Acessar</a> | 
