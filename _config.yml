@@ -4,6 +4,8 @@ logo: /assets/cv.jpg #./assets/cv.png # Use a relative path to logo image
 
 description: Gerente de Operações e Projetos com experiência em desenvolvimento de lideraças, gestão de equipes e projetos, metodologia ágil e gestão de processos.
 
+theme: jekyll-theme-minimal 
+
 github:
   is_project_page: false
   is_user_page: false
