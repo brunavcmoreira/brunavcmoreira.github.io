@@ -1,6 +1,6 @@
 title: Bruna V C Moreira
 
-logo: /assets/cv.png #./assets/cv.png # Use a relative path to logo image 
+logo: ./assets/cv.png #./assets/cv.png # Use a relative path to logo image 
 
 description: Gerente de Operações e Projetos com experiência em desenvolvimento de lideraças, gestão de equipes e projetos, metodologia ágil e gestão de processos.
 
