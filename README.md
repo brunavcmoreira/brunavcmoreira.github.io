@@ -22,7 +22,7 @@
 
 ## 💼 Experiencia Profisional
 
-**Gerente de Operações @ <a href="https://www.wizconcept.com.br/" target="_blank">Wiz Concept</a> (_Janeiro 2022 - Present_)**
+**Gerente de Operações @ <a href="https://www.wizconcept.com.br/" target="_blank">Wiz Concept</a> (_Janeiro 2022 - Maio 2025_)**
 - Liderança de equipes multidisciplinares para garantir eficiência operacional e resultados estratégicos
 - Implementação de metodologias ágeis e melhoria contínua nas operações do canal
 - Gestão de projetos com foco em inovação tecnológica e otimização de processos
