@@ -1,5 +1,5 @@
-# Gerente de Operações & Projetos
-### _Atual - Gerente de operações - Wiz BPO_
+# Analista de Requisitos & Gestora Projetos
+### _Atual - Analista de Requisitos & Gestora Projetos - <a href="https://www.vicax.com/" target="_blank">Vicax</a>
 
 ## 📞 Contato
 
@@ -8,7 +8,7 @@
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/bruna-moreira-495672153/" target="_blank">Acessar Perfil</a> | 
 
 #### Resumo: 
- Profissional com mais de 15 anos de experiência, especialmente no setor de seguros e operações, com trajetória consistente de crescimento. Ocupou ultimo como Gerente de Operações na Wiz BPO, lidero equipes para garantir eficiência operacional e resultados. Experiência consolidada em gestão de projetos, implementação de metodologias ágeis, desenvolvimento de produtos e otimização de processos. Forte atuação como Product Owner com foco em inovação tecnológica e melhoria contínua. Habilidade comprovada na estruturação de operações, análise de dados para tomada de decisões e relacionamento com clientes e parceiros estratégicos.
+ Profissional com mais de 15 anos de experiência, especialmente no setor de seguros previdência e operações, com trajetória consistente de crescimento. Atualmente no cargo de Analista de Requisitos & Gestora Projetos traduzindo necessidades, levantando e detalhando requisitos com clientes, usuários e áreas interessadas(negócio, operações, compliance, atendimento), na Wiz BPO exerceu o cargo de Gerente de Operações, liderando equipes para garantir eficiência operacional e resultados. Experiência consolidada em gestão de projetos, implementação de metodologias ágeis, desenvolvimento de produtos e otimização de processos. Forte atuação como Product Owner com foco em inovação tecnológica e melhoria contínua. Habilidade comprovada na estruturação de operações, análise de dados para tomada de decisões e relacionamento com clientes e parceiros estratégicos.
 
 ## 🎓 Educação e Certificações
 
@@ -21,6 +21,13 @@
 
 
 ## 💼 Experiencia Profisional
+
+**Analista de Requisitos @ <a href="https://www.vicax.com/" target="_blank">Vicax</a> (_Janeiro 2026 - Atual_)**
+- Levantar e detalhar requisitos com clientes, usuários e áreas interessadas (negócio, operações, compliance, atendimento)
+- Traduzir necessidades do cliente em requisitos funcionais e não funcionais para o time de desenvolvimento
+- Atuar como ponto focal de comunicação entre stakeholders e equipe técnica, alinhando expectativas, prazos e escopo
+- Validar entregas com stakeholders, apoiando testes (UAT/homologação) e garantindo aderência aos requisitos
+- Garantir rastreabilidade dos requisitos (demanda → HU → desenvolvimento → testes), controlando mudanças e impactos
 
 **Gerente de Operações @ <a href="https://www.wizconcept.com.br/" target="_blank">Wiz Concept</a> (_Janeiro 2022 - Maio 2025_)**
 - Liderança de equipes multidisciplinares para garantir eficiência operacional e resultados estratégicos
